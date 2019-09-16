@@ -10,6 +10,6 @@
       <PackageReference Include="Fable.Browser.XmlHttpRequest" Version="1.0.0" />
       <PackageReference Include="Fable.Elmish" Version="3.0.5" />
       <PackageReference Include="Fable.Elmish.React" Version="3.0.1" />
-      <PackageReference Include="Feliz" Version="0.41.0" />
+      <PackageReference Include="Feliz" Version="0.52.0" />
     </ItemGroup>
 </Project>

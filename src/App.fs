@@ -67,7 +67,7 @@ let update msg state =
 let render (state: State) (dispatch: Msg -> unit) =
     match state.LoremIpsum with
     | HasNotStartedYet ->
-        Html.div ""
+        Html.none
 
     | InProgress ->
         Html.div "Loading..."
